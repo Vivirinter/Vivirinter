@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivir ┐(￣ヘ￣)</h1>
 <h3 align="center">I like trying different programming languages and giving happiness!</h3>
 
-<p align="left"> <a href="https://twitter.com/vivirinter" target="blank"><img src="https://img.shields.io/twitter/follow/vivirinter?logo=twitter&style=for-the-badge" alt="vivirinter" /></a> </p>
-
 - 💬 Ask me about **android(flutter, kotlin, java)**
 
 - ⚡ Fun fact **I love to eat very much (´｡• ᵕ •｡`)**
