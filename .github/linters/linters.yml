@@ -1,0 +1,11 @@
+MD001: true # Header levels should only increment by one level at a time
+MD002: true # First header should be a top level header
+MD003: true # Header style
+MD004: true # Unordered list style
+MD005: true # Inconsistent indentation for list items at the same level
+MD006: true # Consider starting bulleted lists at the beginning of the line
+MD007: true # Unordered list indentation
+MD009: true # Trailing spaces
+MD010: false # Hard tabs
+MD011: true # Reversed link syntax
+MD012: true # Multiple consecutive blank lines
