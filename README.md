@@ -1,9 +1,5 @@
 # Hi, I'm Vivir 👋
 
-## 🎧 Currently Listening
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=ec5f5d8rk0g3z8zsc0mbi8rjd&cover_image=true&theme=natemoo-re&automatic_color=true)](https://github.com/kittinan/spotify-github-profile)
-
 ## ⚙️ Languages and Tools
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
