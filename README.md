@@ -29,11 +29,11 @@
 </pre>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Kubernetes%20%C2%B7%20OpenShift%20%C2%B7%20Helm%20%C2%B7%20Argo-000000?style=for-the-badge&labelColor=0A0A0A&color=FFB7C5" alt="Platform" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%C2%B7%20GitLab%20CI%20%C2%B7%20Jenkins%20%C2%B7%20Argo%20CD-000000?style=for-the-badge&labelColor=0A0A0A&color=FF9EBB" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Security-Vault%20%C2%B7%20RBAC%20%C2%B7%20Hardening-000000?style=for-the-badge&labelColor=0A0A0A&color=FFD6E0" alt="Security" />
-  <img src="https://img.shields.io/badge/Signal-RTL--SDR%20%C2%B7%20FFT%20%C2%B7%20Spectrum-000000?style=for-the-badge&labelColor=0A0A0A&color=FFB7C5" alt="Signal" />
-  <img src="https://img.shields.io/badge/AI-Agents%20%C2%B7%20LLMs%20%C2%B7%20Copilots%20%C2%B7%20Spells-000000?style=for-the-badge&labelColor=0A0A0A&color=FF9EBB" alt="AI" />
+  <img src="https://img.shields.io/badge/Platform-Kubernetes%20%C2%B7%20OpenShift%20%C2%B7%20Helm%20%C2%B7%20Argo-0D1117?style=for-the-badge&labelColor=0D1117&color=FFB7C5" alt="Platform" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%C2%B7%20GitLab%20CI%20%C2%B7%20Jenkins%20%C2%B7%20Argo%20CD-0D1117?style=for-the-badge&labelColor=0D1117&color=FF9EBB" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Security-Vault%20%C2%B7%20RBAC%20%C2%B7%20Hardening-0D1117?style=for-the-badge&labelColor=0D1117&color=FFD6E0" alt="Security" />
+  <img src="https://img.shields.io/badge/Signal-RTL--SDR%20%C2%B7%20FFT%20%C2%B7%20Spectrum-0D1117?style=for-the-badge&labelColor=0D1117&color=FFB7C5" alt="Signal" />
+  <img src="https://img.shields.io/badge/AI-Agents%20%C2%B7%20LLMs%20%C2%B7%20Copilots%20%C2%B7%20Spells-0D1117?style=for-the-badge&labelColor=0D1117&color=FF9EBB" alt="AI" />
 </p>
 
 <p align="center">
@@ -47,6 +47,6 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://ghrs.vercel.app/api?username=vivirinter&show_icons=true&hide_border=true&bg_color=000000&title_color=FFB7C5&icon_color=FF9EBB&text_color=FFD6E0&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="170" src="https://ghrs.vercel.app/api/top-langs/?username=vivirinter&layout=compact&hide_border=true&bg_color=000000&title_color=FFB7C5&text_color=FFD6E0" alt="languages" />
+  <img height="170" src="https://ghrs.vercel.app/api?username=vivirinter&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB7C5&icon_color=FF9EBB&text_color=FFD6E0&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="170" src="https://ghrs.vercel.app/api/top-langs/?username=vivirinter&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB7C5&text_color=FFD6E0" alt="languages" />
 </p>
