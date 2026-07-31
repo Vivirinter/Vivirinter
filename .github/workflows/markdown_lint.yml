@@ -1,0 +1,19 @@
+name: Markdown Lint
+
+on:
+  push:
+    paths:
+      - 'README.md'
+      - 'assets/**'
+      - '.github/workflows/markdown_lint.yml'
+      - '.github/linters/linters.yml'
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: avto-dev/markdown-lint@v1
+        with:
+          config: '.github/linters/linters.yml'
+          args: './README.md'
